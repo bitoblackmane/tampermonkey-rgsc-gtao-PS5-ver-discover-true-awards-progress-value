@@ -1,0 +1,1 @@
+# tampermonkey-rgsc-discover-true-awards-progress-value
